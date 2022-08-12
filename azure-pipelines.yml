@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'DefaultResourceGroup-EUS2'
     location: 'East US 2'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/jpayne09/azure/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAABXST2EF4DHYKYOXQU424KCYYXWLY5A'
+    csmFileLink: 'https://raw.githubusercontent.com/jpayne09/azure/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAABXST2EEUFMUNVL3GCXOCLLMYXWNNYQ'
     overrideParameters: '-project myarmpipeline'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
