@@ -20,6 +20,7 @@ steps:
     location: 'East US 2'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/jpayne09/azure/main/CreateWebApp/azuredeploy.json'
+    overrideParameters: '-projectName jpao214'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
